@@ -7,7 +7,8 @@ terraform {
             version = "~> 4.13.0"
         }
     }
-
+    
+    /*
     cloud {
         organization = "nohossat-hc-tutorials"
 
@@ -15,4 +16,5 @@ terraform {
             name = "learn-terraform-azure"
         }
     }
+    */
 }
